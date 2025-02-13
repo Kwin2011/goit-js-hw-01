@@ -1,4 +1,3 @@
-
 console.log("- TASK-3 -")
 
 function getElementWidth(content, padding, border)
